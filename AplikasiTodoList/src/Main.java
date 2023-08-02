@@ -4,7 +4,7 @@ public class Main {
      */
     public static String[] data = new String[10];
     /*
-    Untuk Menerima Input daru user
+    Untuk Menerima Input dari user
      */
     public static java.util.Scanner scanner = new java.util.Scanner(System.in);
 
